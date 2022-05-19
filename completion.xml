@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_completion>
+  <course_completion_criteria id="864">
+    <course>259</course>
+    <criteriatype>1</criteriatype>
+    <module>$@NULL@$</module>
+    <moduleinstance>$@NULL@$</moduleinstance>
+    <courseinstanceshortname>$@NULL@$</courseinstanceshortname>
+    <enrolperiod>$@NULL@$</enrolperiod>
+    <timeend>$@NULL@$</timeend>
+    <gradepass>$@NULL@$</gradepass>
+    <role>$@NULL@$</role>
+    <roleshortname>$@NULL@$</roleshortname>
+    <course_completion_crit_completions>
+    </course_completion_crit_completions>
+  </course_completion_criteria>
+  <course_completion_criteria id="865">
+    <course>259</course>
+    <criteriatype>4</criteriatype>
+    <module>scorm</module>
+    <moduleinstance>8885</moduleinstance>
+    <courseinstanceshortname>$@NULL@$</courseinstanceshortname>
+    <enrolperiod>$@NULL@$</enrolperiod>
+    <timeend>$@NULL@$</timeend>
+    <gradepass>$@NULL@$</gradepass>
+    <role>$@NULL@$</role>
+    <roleshortname>$@NULL@$</roleshortname>
+    <course_completion_crit_completions>
+    </course_completion_crit_completions>
+  </course_completion_criteria>
+  <course_completion_criteria id="866">
+    <course>259</course>
+    <criteriatype>4</criteriatype>
+    <module>scorm</module>
+    <moduleinstance>8886</moduleinstance>
+    <courseinstanceshortname>$@NULL@$</courseinstanceshortname>
+    <enrolperiod>$@NULL@$</enrolperiod>
+    <timeend>$@NULL@$</timeend>
+    <gradepass>$@NULL@$</gradepass>
+    <role>$@NULL@$</role>
+    <roleshortname>$@NULL@$</roleshortname>
+    <course_completion_crit_completions>
+    </course_completion_crit_completions>
+  </course_completion_criteria>
+  <course_completion_criteria id="867">
+    <course>259</course>
+    <criteriatype>4</criteriatype>
+    <module>scorm</module>
+    <moduleinstance>8887</moduleinstance>
+    <courseinstanceshortname>$@NULL@$</courseinstanceshortname>
+    <enrolperiod>$@NULL@$</enrolperiod>
+    <timeend>$@NULL@$</timeend>
+    <gradepass>$@NULL@$</gradepass>
+    <role>$@NULL@$</role>
+    <roleshortname>$@NULL@$</roleshortname>
+    <course_completion_crit_completions>
+    </course_completion_crit_completions>
+  </course_completion_criteria>
+  <course_completion_criteria id="868">
+    <course>259</course>
+    <criteriatype>4</criteriatype>
+    <module>scorm</module>
+    <moduleinstance>8888</moduleinstance>
+    <courseinstanceshortname>$@NULL@$</courseinstanceshortname>
+    <enrolperiod>$@NULL@$</enrolperiod>
+    <timeend>$@NULL@$</timeend>
+    <gradepass>$@NULL@$</gradepass>
+    <role>$@NULL@$</role>
+    <roleshortname>$@NULL@$</roleshortname>
+    <course_completion_crit_completions>
+    </course_completion_crit_completions>
+  </course_completion_criteria>
+  <course_completion_aggr_methd id="381">
+    <course>259</course>
+    <criteriatype>$@NULL@$</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="382">
+    <course>259</course>
+    <criteriatype>4</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="383">
+    <course>259</course>
+    <criteriatype>8</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="384">
+    <course>259</course>
+    <criteriatype>7</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+</course_completion>

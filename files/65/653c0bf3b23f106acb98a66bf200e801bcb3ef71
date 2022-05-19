@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_6Z33m1j64Lo_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Teaching_Adults_to_Read:_Diagnostic_Assessment_and_Text_Selection_ORG">
+    <organization identifier="Teaching_Adults_to_Read:_Diagnostic_Assessment_and_Text_Selection_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Teaching Adults to Read: Diagnostic Assessment and Text Selection</title>
+      <item identifier="Diagnosticsetc_Copy_SCO" identifierref="__6Z33m1j64Lo_course_id_RES" isvisible="true">
+        <title>Teaching Adults to Read: Diagnostic Assessment and Text Selection</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Z33m1j64Lo_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lLKP3pgryl_80_DX984_DY984_CX773_CY393.png" />
+      <file href="mobile/6XcssX70kvp_80_DX1440_DY1440_CX1132_CY849.png" />
+      <file href="mobile/63SY49ymUT0_80_DX1440_DY1440_CX1132_CY849.png" />
+      <file href="mobile/6GjkJpammkv_80_DX1440_DY1440_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5mzL4VDLMix.png" />
+      <file href="story_content/5nH9QzneJX0.png" />
+      <file href="story_content/6YnvrrDqM8v.png" />
+      <file href="story_content/6PJRDuRhhVW.png" />
+      <file href="story_content/6mjv1jwklFh.png" />
+      <file href="story_content/6QeyBSeazmc.png" />
+      <file href="story_content/66ifxj9LFKw.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Considerations When Teaching Special Populations_508.pdf" />
+      <file href="story_content/external_files/TAR Handouts_Alphabetics_0729021_508.pdf" />
+      <file href="story_content/external_files/TARHandouts_Comprehension_04222021_508.pdf" />
+      <file href="story_content/external_files/TARHandouts_Vocabulary_Adv_031220_508.pdf" />
+      <file href="story_content/external_files/Development of Academic Mindsets.pdf" />
+      <file href="story_content/external_files/TARBrief_TAREvidenceBase030620_508.pdf" />
+      <file href="story_content/external_files/Extended_Learning_Guide_Advanced.pdf" />
+      <file href="mobile/txt__default_6TYpX0KWe6u.png" />
+      <file href="mobile/txt__default_6iDKHSX8oOL.png" />
+      <file href="mobile/txt__default_6HfgbO5ZwCm.png" />
+      <file href="mobile/txt__default_5eMRDJ47EA7.png" />
+      <file href="mobile/txt__default_6N008s297th.png" />
+      <file href="mobile/txt__default_6mPqJUiAb8J.png" />
+      <file href="mobile/txt__default_6GvRAwo8JD3.png" />
+      <file href="mobile/txt__default_5fEQYJo8nnw.png" />
+      <file href="mobile/txt__default_6S6gFFr1Ry6.png" />
+      <file href="mobile/txt__default_6lgV70LM3Vk.png" />
+      <file href="mobile/txt__default_6hnFdz3pz3R.png" />
+      <file href="mobile/txt__default_6oP2VWfFEda.png" />
+      <file href="mobile/txt__default_5VY1yI7hx0O.png" />
+      <file href="mobile/txt__default_5cd7EKxHfa0.png" />
+      <file href="mobile/txt__default_6hVWEJiLJym.png" />
+      <file href="mobile/txt__default_66pOvMoOiks.png" />
+      <file href="mobile/txt__default_5nAY7Mecplt.png" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6qUiMXbl7S9.js" />
+      <file href="html5/data/js/6N2K1VVFlS9.js" />
+      <file href="html5/data/js/60JiXwluroQ.js" />
+      <file href="html5/data/js/6EHN0lCluW2.js" />
+      <file href="html5/data/js/5W2UhIK6Lft.js" />
+      <file href="html5/data/js/6LNu1kHSFB3.js" />
+      <file href="html5/data/js/6p3LS1s7LVG.js" />
+      <file href="html5/data/js/6a0Iw8ndgfp.js" />
+      <file href="html5/data/js/6GYrF9rrdGK.js" />
+      <file href="html5/data/js/5xVhXihQaOV.js" />
+      <file href="html5/data/js/5XnguqQXoLR.js" />
+      <file href="html5/data/js/5zlgqNK9Sbn.js" />
+      <file href="html5/data/js/6R21mVzppRH.js" />
+      <file href="html5/data/js/5W8Z66reyEt.js" />
+      <file href="html5/data/js/6deJPwy3c4s.js" />
+      <file href="html5/data/js/5dDX33kc9p2.js" />
+      <file href="html5/data/js/63t5Kx7sirZ.js" />
+      <file href="html5/data/js/6OVGHm14Q0n.js" />
+      <file href="html5/data/js/5tbZnWDZoxC.js" />
+      <file href="html5/data/js/5j7VzeNpr1M.js" />
+      <file href="html5/data/js/5uAcOrybaP1.js" />
+      <file href="html5/data/js/6JeuXKjjl6a.js" />
+      <file href="html5/data/js/5VQFAh7T69F.js" />
+      <file href="html5/data/js/6TUiUka1a6w.js" />
+      <file href="html5/data/js/6h7TyWeXWj2.js" />
+      <file href="html5/data/js/5vGfVhJh4Mw.js" />
+      <file href="html5/data/js/5WCu6JZRPYr.js" />
+      <file href="html5/data/js/6c4ao6Z47ji.js" />
+      <file href="html5/data/js/60oPyBzIJwE.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6WmMF88hsdG.js" />
+      <file href="html5/data/js/6IG3lLY9Zma.js" />
+      <file href="html5/data/js/5m1nzFrJgki.js" />
+      <file href="html5/data/js/5Znb5jaFw1h.js" />
+      <file href="html5/data/js/6hckI3IVN02.js" />
+      <file href="html5/data/js/5gInR8cG2Gr.js" />
+      <file href="html5/data/js/61jP7Cy8M7m.js" />
+      <file href="html5/data/js/5xBmjGUCtxF.js" />
+      <file href="html5/data/js/5mreC6d4GSL.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/5ahxw7Uj6D6.js" />
+      <file href="html5/data/js/6NVm9G5jFfs.js" />
+      <file href="html5/data/js/5qKpivDDH57.js" />
+      <file href="html5/data/js/69u048EsqDZ.js" />
+      <file href="html5/data/js/6ee2QlOoTvq.js" />
+      <file href="html5/data/js/6mwPLWDI91M.js" />
+      <file href="html5/data/js/6ZRm8anXkWp.js" />
+      <file href="html5/data/js/6U3qUlPsUMd.js" />
+      <file href="html5/data/js/6P1faUEUJQX.js" />
+      <file href="html5/data/js/6ful5mPFCeZ.js" />
+      <file href="html5/data/js/64sfLmFQ9WQ.js" />
+      <file href="html5/data/js/6ES4if35GvT.js" />
+      <file href="html5/data/js/6Gt6inMAWCU.js" />
+      <file href="html5/data/js/6ojYjX9azEh.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/61x2aqdMVTT.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
